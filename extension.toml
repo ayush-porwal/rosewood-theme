@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Ayush Porwal"]
 description = "A warm transparent theme."
-repository = "https://github.com/ayush-porwal/rosewood-theme/zed/"
+repository = "https://github.com/ayush-porwal/zed-rosewood-theme"
